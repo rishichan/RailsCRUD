@@ -10,6 +10,8 @@ gem "stimulus-rails"
 gem "jbuilder"
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem 'redis'
+gem 'grape'         
+gem 'grape-entity'
 
 gem "bootsnap", require: false
 
